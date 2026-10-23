@@ -42,7 +42,7 @@ Aprovechando esta vulnerabilidad, se ejecutó un comando de Python para invocar 
 ![Escalada a Root](root_shell.png)
 
 Finalmente, se localizó la flag de administrador en el directorio `/root/`.
-![Flag de Root](root_flag.png)
+
 
 ## 4. Vulnerabilidades Encontradas y Posibles Impactos
 
