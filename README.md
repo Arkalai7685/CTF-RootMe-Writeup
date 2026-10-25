@@ -2,7 +2,9 @@
 
 **Autor:** Álvaro Manuel Castillo Arancibia  
 **Área:** Ingeniería en Ciberseguridad / Analista Programador
+
 **Docente:** Diego Miguel Cáceres Solis
+
 **Fecha::** 26/10/2026
 ## 1. Objetivo y Descripción del Laboratorio
 El objetivo de esta actividad es aplicar técnicas de Ethical Hacking en un entorno de laboratorio controlado (TryHackMe) para comprometer el servidor "RootMe". El proceso abarca desde la enumeración inicial de servicios hasta la obtención de acceso persistente y la escalada de privilegios al usuario `root`, identificando y documentando las vulnerabilidades explotadas.
