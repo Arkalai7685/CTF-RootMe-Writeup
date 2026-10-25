@@ -1,6 +1,7 @@
 # Informe Técnico: Resolución del CTF "RootMe" (TryHackMe)
 
 **Autor:** Álvaro Manuel Castillo Arancibia  
+
 **Área:** Ingeniería en Ciberseguridad / Analista Programador
 
 **Docente:** Diego Miguel Cáceres Solis
